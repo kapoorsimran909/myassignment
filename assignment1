@@ -1,0 +1,11 @@
+q1. create one variable containing following type of data:
+(i)string- a = "simran"
+(ii)list- l = [1,2,3,4,5]
+(iii)float- f = 2.5
+(iv)tuple- s = "sim"
+q2.given are some following variables containing data:
+what will be the data type of the variable given below
+(i)var1 ='' - string
+(ii)var2 ='[ds,ml,python]' - string
+(iii)var3 =[ds,ml,python] - list
+(iv)var4 =1 - int
